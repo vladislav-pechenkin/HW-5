@@ -36,7 +36,7 @@ public class Main {
             System.out.println(year + " год не является високосным");
         }
 
-        System.out.println("Задача 4");
+        System.out.println("Задача 4 ");
 
         int deliveryDistance = 105;
         int deliveryPerDay = 1;
